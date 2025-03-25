@@ -1,0 +1,2 @@
+改文档格式为.md
+需要使用相应的软件才能打开哦（比如MarkText、Typora、VS Code等等）
